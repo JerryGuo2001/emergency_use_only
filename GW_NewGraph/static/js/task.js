@@ -1044,7 +1044,7 @@ let intro_prac2_learn=create_instruct(instructprac2,instructprac2names,prac2_num
 
 //time line here
 timeline.push(welcome,enterFullscreen)
-timeline.push(phase3[0])
+timeline.push(end_questions,thank_you)
 //debug
 // timeline.push(phase3[0])
 //debug
